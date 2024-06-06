@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=odriew3j&repo=github-readme-stats)](https://github.com/odriew3j/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefvafaei&show_icons=true&theme=dracula)
 
