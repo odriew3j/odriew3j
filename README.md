@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Msv</h1>
 <h3 align="center">A multidisciplinary front-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=odriew3j&label=Profile%20views&color=0e75b6&style=flat" alt="odriew3j" /> </p>
 
 - 🔭 I’m currently working on myself
   
@@ -37,8 +37,8 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kimanzi&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=odriew3j&show_icons=true&locale=en&layout=compact" alt="odriew3j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-kimanzi&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=odriew3j&show_icons=true&locale=en" alt="odriew3j" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kimanzi&" alt="peter-kimanzi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odriew3j&" alt="odriew3j" /></p>
