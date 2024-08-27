@@ -9,7 +9,7 @@
   
 - 📫 How to reach me: **mohammad.mousavi3j@gmail.com**
 
-- 💬 Ask me about ** Python, NodeJS, APIs, NextJS, REACT, JS, Tailwind **
+- 💬 Ask me about **NodeJS, APIs, NextJS, REACT, JS, Tailwind **
 
 - ⚡ Fun fact: We die eventually 
 
